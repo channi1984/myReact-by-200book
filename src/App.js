@@ -1,11 +1,11 @@
 import React from 'react';
 import './App.css'
-import ClassPrototype from './ClassPrototype'
+import ArrowFunc from './ArrowFunc'
 
 function App() {
   return (
     <div>
-      <ClassPrototype />
+      <ArrowFunc />
     </div>
   )
 }
