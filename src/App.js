@@ -1,11 +1,11 @@
 import React from 'react';
 import './App.css'
-import ForEach from './ForEach'
+import ArrowFunc from './ArrowFunc'
 
 function App() {
   return (
     <div>
-      <ForEach />
+      <ArrowFunc />
     </div>
   )
 }
