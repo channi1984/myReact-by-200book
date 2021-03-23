@@ -1,11 +1,13 @@
 import React from 'react';
 import './App.css'
-import Map from './Map'
+import Props from './Props'
 
 function App() {
   return (
     <div>
-      <Map />
+      <h1>Start React 200!</h1>
+      <p>CSS 적용하기</p>
+      <Props props_val="THIS IS PROPS" />
     </div>
   )
 }
