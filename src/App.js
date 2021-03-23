@@ -1,11 +1,11 @@
 import React from 'react';
 import './App.css'
-import ForEach from './ForEach'
+import Map from './Map'
 
 function App() {
   return (
     <div>
-      <ForEach />
+      <Map />
     </div>
   )
 }
